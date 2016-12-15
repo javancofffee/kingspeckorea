@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kingspec.com.cn	TRUE	/	FALSE	1999999999	JSESSIONID	A0F74F20B7B83042351168FC1BD2F6BE.DLOG4J1
+
